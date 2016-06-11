@@ -1,4 +1,9 @@
 {
+    "applications": {
+        "gecko": {
+            "id": "HNES@example.com"
+        }
+    },
     "name": "Hacker News Enhancement Suite",
     "short_name": "HNES",
     "version": "1.4.0.0",
